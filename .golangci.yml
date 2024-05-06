@@ -1,7 +1,7 @@
 # This file configures github.com/golangci/golangci-lint.
 
 run:
-  concurrency: 4
+  concurrency: 9
   timeout: 5m
   tests: true
   # default is true. Enables skipping of directories:
